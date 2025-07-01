@@ -1,0 +1,7 @@
+# .gitignore 示例
+.idea/
+*.bak
+receipt_*.txt
+sales_report_*.txt
+stock_warning_report_*.txt
+log.txt
