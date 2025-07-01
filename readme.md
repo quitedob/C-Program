@@ -36,7 +36,6 @@
 
 ## 文件结构
 
-```
 
 /MallManagementSystem
 │
@@ -49,8 +48,6 @@
 ├─ log.txt            # 操作日志
 ├─ \*.bak, \*.tmp       # 自动备份与临时文件
 └─ README.md          # 本说明文档
-
-````
 
 ## 快速开始
 
